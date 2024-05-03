@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?color=6699FF&type=wave&height=300&section=header&text=Sua%20%F0%9F%8C%8A%20See%20&fontSize=70&fontColor=ffffff&gradient-color-0=87CEEB&gradient-color-1=ADD8E6)
 <!--
 **SSuaSea/SSuaSea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
